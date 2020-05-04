@@ -1,0 +1,33 @@
+### Version 1.0.2
+04/05/2020
+
+* **!help**
+  * Some descriptions edited.
+* **!about**
+  * Additional responses added.
+* **!forecast**
+  * One response edited.
+* **!random**
+  * Additional responses added.
+  * One response edited.
+* **!roles**
+  * Command added.
+* **!rules**
+  * Responses now link to the channel as intended.
+  * Some responses edited.
+* **!support**
+  * Link in responses changed from https://support.lastepochgame.com/contact to https://support.lastepochgame.com/
+  * Some responses edited.
+
+&nbsp;
+### Version 1.0.1
+20/04/2020
+
+* **!phase**
+  * Corrected a typo.
+
+&nbsp;
+### Version 1.0
+20/04/2020
+
+Released.
