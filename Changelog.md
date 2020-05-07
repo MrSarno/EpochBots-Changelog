@@ -1,3 +1,10 @@
+### Version 1.0.3
+07/05/2020
+
+* **!random**
+  * Corrected a typo.
+
+&nbsp;
 ### Version 1.0.2
 04/05/2020
 
