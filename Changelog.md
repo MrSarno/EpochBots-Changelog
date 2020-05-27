@@ -1,3 +1,16 @@
+### Version 1.0.4
+27/05/2020
+
+* **!multiplayer**
+  * Edited one response for clarity.
+  
+* **!patch**
+  * Updated all responses.
+  
+* **!release**
+  * Edited all responses.
+
+&nbsp;
 ### Version 1.0.3
 07/05/2020
 
