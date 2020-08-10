@@ -1,3 +1,16 @@
+### Version 1.0.5
+10/08/2020
+  
+* **!patch**
+  * Updated all responses.
+  
+* **!phase**
+  * Updated all responses.
+  
+* **!rogue**
+  * Edited one response for clarity.
+
+&nbsp;
 ### Version 1.0.4
 27/05/2020
 
