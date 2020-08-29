@@ -1,3 +1,19 @@
+### Version 1.0.6
+28/08/2020
+  
+* **!release**
+  * Removed.
+
+* **!multiplayer**
+  * Updated all responses.
+  
+* **!phase**
+  * Updated all responses.
+  
+* **!rogue**
+  * Updated all responses.
+
+&nbsp;
 ### Version 1.0.5
 10/08/2020
   
