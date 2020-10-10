@@ -1,3 +1,10 @@
+### Version 1.0.7
+07/10/2020
+
+* **!patch**
+  * Updated all responses.
+
+&nbsp;
 ### Version 1.0.6
 28/08/2020
   
