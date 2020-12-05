@@ -1,3 +1,19 @@
+### Version 1.0.8
+04/08/2020
+
+* **!forecast**
+  * Updated all responses.
+
+* **!patch**
+  * Updated all responses.
+  
+ * **!random**
+  * Added several additional responses.
+  
+* **!rogue**
+  * Updated all responses.
+
+&nbsp;
 ### Version 1.0.7
 07/10/2020
 
