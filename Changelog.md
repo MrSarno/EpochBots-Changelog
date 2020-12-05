@@ -7,8 +7,8 @@
 * **!patch**
   * Updated all responses.
   
- * **!random**
-  * Added several additional responses.
+* **!random**
+  * Added several responses.
   
 * **!rogue**
   * Updated all responses.
