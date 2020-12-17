@@ -1,6 +1,9 @@
 ### Version 1.0.8
 04/12/2020
 
+* **!help**
+  * Updated response.
+  
 * **!forecast**
   * Updated all responses.
 
