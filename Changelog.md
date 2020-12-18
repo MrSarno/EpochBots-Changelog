@@ -1,3 +1,10 @@
+### Version 1.0.9
+18/12/2020
+
+* **!multiplayer**
+  * Updated all responses.
+ 
+  
 ### Version 1.0.8
 04/12/2020
 
