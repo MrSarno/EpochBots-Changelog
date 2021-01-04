@@ -1,3 +1,12 @@
+### Version 1.0.10
+04/01/2021
+
+* **!release**
+  * Corrected the link to point to the actual thread.
+
+* On other news, EpochBot has a new hairdo! [Image](https://i.imgur.com/dtDLcOo.png)
+ 
+  
 ### Version 1.0.9
 18/12/2020
 
