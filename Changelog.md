@@ -5,15 +5,15 @@
   * Corrected the link to point to the actual thread.
 
 * On other news, EpochBot has a new hairdo! [Image](https://i.imgur.com/dtDLcOo.png)
- 
-  
+
+&nbsp;  
 ### Version 1.0.9
 18/12/2020
 
 * **!multiplayer**
   * Updated all responses.
- 
-  
+
+&nbsp;
 ### Version 1.0.8
 04/12/2020
 
