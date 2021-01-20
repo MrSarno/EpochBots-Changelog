@@ -1,3 +1,10 @@
+### Version 1.0.11
+20/01/2021
+
+* ***multiple responses***
+  * Updated forum URLs to point to https://forum.lastepoch.com/ instead of https://forum.lastepochgame.com.
+
+&nbsp;
 ### Version 1.0.10
 04/01/2021
 
