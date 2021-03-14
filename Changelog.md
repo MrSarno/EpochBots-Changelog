@@ -1,3 +1,18 @@
+### Version 1.0.13
+20/01/2021
+
+* **!support
+  * Updated all responses to point to https://support.lastepoch.com/ instead of https://support.lastepochgame.com.
+
+&nbsp;
+### Version 1.0.12
+18/02/2021
+
+
+* **!patch
+  * Updated all responses for Patch 0.8.1.
+
+&nbsp;
 ### Version 1.0.11
 20/01/2021
 
